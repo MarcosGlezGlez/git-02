@@ -1,0 +1,38 @@
+.bg-primary{
+    background-color: #383e56;
+}
+
+.bg-secondary{
+    background-color: #f69e7b;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-light {
+    color: #eedad1;
+}
+
+.text-info {
+    color: #d4b5b0;
+}
+
+.w-200 {
+    width: 200px;
+}
+
+.text-primary {
+    color: #383e56;
+}
+
+.text-white{
+    color: #fff;
+}
+
+.button-info{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+
+}
